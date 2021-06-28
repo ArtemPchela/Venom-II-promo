@@ -241,8 +241,8 @@ body {
 .gallery {
     width: 100%;
     display: flex;
-    /*flex-direction: column;*/
     padding: 0 25px;
+    margin: 5rem 0;
 }
 
 .slide {
@@ -417,9 +417,5 @@ body {
         margin-right: 0;
         width: 100%;
         max-width: 350px;
-    }
-
-    .column-2 {
-        column-count: 1;
     }
 }
