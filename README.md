@@ -1,5 +1,6 @@
 # Venom-II-promo
-Link to the web-site: https://venom-2-promo.netlify.app/index.html
+Link to the web-site:<br/>
+https://venom-2-promo.netlify.app/index.html
 
 Technology:<br/>
 JavaScript<br/>
@@ -7,7 +8,7 @@ HTML<br/>
 CSS<br/>
 
 IDE:<br/>
-WebStorm - https://www.jetbrains.com/webstorm/
+[WebStorm](https://www.jetbrains.com/webstorm/)
 
 Libraries:<br/>
 AOS.js - https://michalsnik.github.io/aos/ - animate scroll liblary
