@@ -10,7 +10,8 @@ IDE:
 WebStorm - https://www.jetbrains.com/webstorm/
 
 Libraries:
-AOS.js - https://michalsnik.github.io/aos/ - animate scroll liblry
+AOS.js - https://michalsnik.github.io/aos/ - animate scroll liblary
+<br/>
 Rellax.js - https://dixonandmoe.com/rellax/ - parallax effect
 
 Sources:
