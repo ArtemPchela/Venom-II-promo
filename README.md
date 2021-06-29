@@ -1,6 +1,5 @@
 # Venom-II-promo
-Link to the web-site:<br/>
-https://venom-2-promo.netlify.app/index.html
+Link to the [Web-site](https://venom-2-promo.netlify.app/index.html)
 
 Technology:<br/>
 JavaScript<br/>
@@ -20,6 +19,6 @@ Sources:
 [imdb](https://www.imdb.com/title/tt7097896/) - photos cast and crew <br/>
 [YouTube](https://www.youtube.com/) - trailer <br/>
 [adobe](https://spark.adobe.com/tools/remove-background/#) - remove background in pictures <br/>
-<br/><br/>
+<br/>
 Hosting:<br/>
 [Netlify](https://www.netlify.com/)
